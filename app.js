@@ -103,7 +103,7 @@ const texLoader=new THREE.TextureLoader();
 function loadTexture(i,high=false){
  const mesh=meshes[i];if(!mesh||mesh.userData[high?'high':'thumb'])return;mesh.userData[high?'high':'thumb']=true;
  const generation=mesh.userData.generation||0;
- texLoader.load(`/images/${photos[i].id}${high?'':'-thumb'}.webp`,texture=>{
+ texLoader.load(`./images/${photos[i].id}${high?'':'-thumb'}.webp`,texture=>{
   if(!renderer||generation!==(mesh.userData.generation||0)){texture.dispose();return;}
   texture.colorSpace=THREE.SRGBColorSpace;texture.anisotropy=Math.min(4,renderer.capabilities.getMaxAnisotropy());
   if(!high&&mesh.userData.highReady){texture.dispose();return;}
@@ -137,7 +137,7 @@ function initRenderer(){
  }catch(error){console.warn('Spatial view unavailable; using the image view.');renderer=null;canvas.hidden=true;$('#fallback').hidden=false;$('#loading').hidden=true;}
  canvas.addEventListener('webglcontextlost',e=>{e.preventDefault();transition?.kill();renderer=null;canvas.hidden=true;$('#fallback').hidden=false;$('#loading').hidden=true;renderFallback();});
 }
-function renderFallback(){const p=photos[state.index],other=isPair()?photos[related(state.index)]:null,key=p.id+(other?.id||'');if($('#fallback').dataset.key!==key){$('#fallback').dataset.key=key;$('#fallback').innerHTML=`<img src="/images/${p.id}.webp" alt="${esc(p.alt)}">${other?`<img src="/images/${other.id}.webp" alt="${esc(other.alt)}">`:''}`;}$('#loading').hidden=true;$('#hit-area').hidden=true;}
+function renderFallback(){const p=photos[state.index],other=isPair()?photos[related(state.index)]:null,key=p.id+(other?.id||'');if($('#fallback').dataset.key!==key){$('#fallback').dataset.key=key;$('#fallback').innerHTML=`<img src="./images/${p.id}.webp" alt="${esc(p.alt)}">${other?`<img src="./images/${other.id}.webp" alt="${esc(other.alt)}">`:''}`;}$('#loading').hidden=true;$('#hit-area').hidden=true;}
 function resize(){
  stopWheel();W=stage.clientWidth;H=stage.clientHeight;transition?.kill();hover=-1;drag=null;stage.classList.remove('dragging');
  if(renderer){renderer.setSize(W,H,false);camera.aspect=W/H;camera.position.z=H/(2*Math.tan(THREE.MathUtils.degToRad(19)));camera.updateProjectionMatrix();}
@@ -251,10 +251,10 @@ function bind(){
 }
 async function start(){
  try{
-  const response=await fetch('/photos.json',{cache:'no-cache'});if(!response.ok)throw Error('Manifest unavailable');photos=await response.json();if(!photos.length||new Set(photos.map(p=>p.id)).size!==photos.length)throw Error('Invalid collection');
+  const response=await fetch('./photos.json',{cache:'no-cache'});if(!response.ok)throw Error('Manifest unavailable');photos=await response.json();if(!photos.length||new Set(photos.map(p=>p.id)).size!==photos.length)throw Error('Invalid collection');
   const initial=Math.max(0,photoIndex('p07'));state.index=initial;state.position=initial;state.collection={index:initial,position:initial};
   $('.skip').textContent=`All ${photos.length} photographs`;$('#overview-open sup').textContent=photos.length;$('#overview-title').textContent=`${photos.length} ways of seeing.`;$('#loading span').textContent=`${photos.length} photographs / One continuous thread`;
-  $('#overview-grid').innerHTML=photos.map((p,i)=>`<a class="overview-photo" data-id="${p.id}" href="#photo/${p.id}" aria-label="Open ${esc(p.title)}"><img src="/images/${p.id}-thumb.webp" alt="${esc(p.alt)}" width="${p.width}" height="${p.height}" loading="lazy"><span class="overview-label"><small>${number(i)}</small><span>${esc(p.title)}</span></span></a>`).join('');
+  $('#overview-grid').innerHTML=photos.map((p,i)=>`<a class="overview-photo" data-id="${p.id}" href="#photo/${p.id}" aria-label="Open ${esc(p.title)}"><img src="./images/${p.id}-thumb.webp" alt="${esc(p.alt)}" width="${p.width}" height="${p.height}" loading="lazy"><span class="overview-label"><small>${number(i)}</small><span>${esc(p.title)}</span></span></a>`).join('');
   $('#hit-area').innerHTML=photos.map(p=>`<button class="photo-hit" id="hit-${p.id}" data-id="${p.id}" aria-label="Open ${esc(p.title)}. ${esc(p.alt)}" tabindex="-1"></button>`).join('');
   initRenderer();bind();resize();lastRoute='__initial__';readRoute();prime();
  }catch(error){console.error(error);$('#loading').hidden=true;$('#error').hidden=false;}
