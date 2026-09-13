@@ -1,0 +1,1637 @@
+[
+  {
+    "id": "p47",
+    "file": "IMG_4386.JPG",
+    "chapter": "EDGE",
+    "group": "Reflected Facades",
+    "title": "A Tree Above Concrete",
+    "alt": "Tree crowns rise above a diagonal dark tiled wall, beside a pale tower and a clear cyan sky.",
+    "width": 1537,
+    "height": 990,
+    "treatment": "Color",
+    "format": "Landscape",
+    "desktop": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p54"
+    },
+    "mobile": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p54"
+    },
+    "relationship": "Related photographs in reflected facades; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered."
+  },
+  {
+    "id": "p54",
+    "file": "IMG_7432.JPG",
+    "chapter": "EDGE",
+    "group": "Reflected Facades",
+    "title": "A Space Between Blocks",
+    "alt": "Concrete building blocks and a dark projecting roof enclose a blue opening above a red facade and small trees.",
+    "width": 1080,
+    "height": 1616,
+    "treatment": "Color",
+    "format": "Portrait",
+    "desktop": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p05"
+    },
+    "mobile": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p05"
+    },
+    "relationship": "Related photographs in reflected facades; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered."
+  },
+  {
+    "id": "p05",
+    "file": "IMG_7425.JPG",
+    "chapter": "EDGE",
+    "treatment": "Color",
+    "title": "Three Ways Up",
+    "alt": "Three high-rise facades with contrasting glass, white window grids and dark concrete bays stand beneath blue sky.",
+    "width": 1080,
+    "height": 1616,
+    "format": "Portrait",
+    "desktop": {
+      "mode": "paired",
+      "relatedId": "p54",
+      "objectPosition": "52% 57%",
+      "fit": "contain"
+    },
+    "mobile": {
+      "mode": "natural-portrait",
+      "objectPosition": "50% 52%",
+      "fit": "contain",
+      "relatedId": "p54"
+    },
+    "relationship": "Related photographs in reflected facades; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered.",
+    "group": "Reflected Facades"
+  },
+  {
+    "id": "p59",
+    "file": "IMG_7452.JPG",
+    "chapter": "LIGHT",
+    "group": "Reflected Facades",
+    "title": "Windows on a Fold",
+    "alt": "Projecting box windows punctuate a folded silver facade beside a rounded yellow structure beneath blue sky.",
+    "width": 1046,
+    "height": 1616,
+    "treatment": "Color",
+    "format": "Portrait",
+    "desktop": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p08"
+    },
+    "mobile": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p08"
+    },
+    "relationship": "Related photographs in reflected facades; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered."
+  },
+  {
+    "id": "p08",
+    "file": "IMG_7451.JPG",
+    "chapter": "LIGHT",
+    "treatment": "Color",
+    "title": "The Silver Turn",
+    "alt": "A silver facade with projecting white windows meets a dark ribbed overhang, leaving a blue wedge of sky.",
+    "width": 1080,
+    "height": 1616,
+    "format": "Portrait",
+    "desktop": {
+      "mode": "paired",
+      "relatedId": "p59",
+      "objectPosition": "50% 55%",
+      "fit": "contain"
+    },
+    "mobile": {
+      "mode": "portrait-close",
+      "objectPosition": "48% 54%",
+      "fit": "cover",
+      "relatedId": "p59"
+    },
+    "relationship": "Related photographs in reflected facades; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered.",
+    "group": "Reflected Facades"
+  },
+  {
+    "id": "p07",
+    "file": "IMG_4227.JPG",
+    "chapter": "LIGHT",
+    "treatment": "Color",
+    "title": "Orange in the Glass",
+    "alt": "An orange building is reflected in blue glass beneath a black diagonal overhang, beside a triangular area of clear blue sky.",
+    "width": 1080,
+    "height": 1616,
+    "format": "Portrait",
+    "desktop": {
+      "mode": "paired",
+      "relatedId": "p06",
+      "objectPosition": "62% 64%",
+      "fit": "contain"
+    },
+    "mobile": {
+      "mode": "portrait-close",
+      "objectPosition": "62% 62%",
+      "fit": "cover",
+      "relatedId": "p06"
+    },
+    "relationship": "Related photographs in reflected facades; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered.",
+    "group": "Reflected Facades"
+  },
+  {
+    "id": "p06",
+    "file": "IMG_7450.JPG",
+    "chapter": "LIGHT",
+    "treatment": "Color",
+    "title": "Warmth at the Edge",
+    "alt": "Orange brick walls form a zigzag roofline against deep blue sky, with reflected patches of light and a projecting window.",
+    "width": 968,
+    "height": 1616,
+    "format": "Portrait",
+    "desktop": {
+      "mode": "paired",
+      "relatedId": "p07",
+      "objectPosition": "48% 50%",
+      "fit": "contain"
+    },
+    "mobile": {
+      "mode": "portrait-close",
+      "objectPosition": "42% 59%",
+      "fit": "cover",
+      "relatedId": "p07"
+    },
+    "relationship": "Related photographs in reflected facades; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered.",
+    "group": "Reflected Facades"
+  },
+  {
+    "id": "p60",
+    "file": "IMG_7456.JPG",
+    "chapter": "EDGE",
+    "group": "Rooflines and Openings",
+    "title": "The Roof Leans Away",
+    "alt": "A sharply angled dark roof and pale columns stand beside a tall blue glass facade under a clear sky.",
+    "width": 1062,
+    "height": 1616,
+    "treatment": "Color",
+    "format": "Portrait",
+    "desktop": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p02"
+    },
+    "mobile": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p02"
+    },
+    "relationship": "Related photographs in rooflines and openings; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered."
+  },
+  {
+    "id": "p02",
+    "file": "IMG_7454.JPG",
+    "chapter": "EDGE",
+    "treatment": "Color",
+    "title": "Blue Above the Fold",
+    "alt": "A pointed dark roof and bright building corner rise into a saturated blue sky.",
+    "width": 1080,
+    "height": 1616,
+    "format": "Portrait",
+    "desktop": {
+      "mode": "paired",
+      "relatedId": "p01",
+      "objectPosition": "50% 46%",
+      "fit": "contain"
+    },
+    "mobile": {
+      "mode": "portrait",
+      "objectPosition": "50% 42%",
+      "fit": "cover",
+      "relatedId": "p01"
+    },
+    "relationship": "Related photographs in rooflines and openings; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered.",
+    "group": "Rooflines and Openings"
+  },
+  {
+    "id": "p01",
+    "file": "IMG_7447.JPG",
+    "chapter": "EDGE",
+    "treatment": "B&W",
+    "title": "A Point of Silence",
+    "alt": "Black-and-white view looking up at a pointed roof and sunlit building corner beneath a broad gray sky.",
+    "width": 1080,
+    "height": 1616,
+    "format": "Portrait",
+    "desktop": {
+      "mode": "paired",
+      "relatedId": "p02",
+      "objectPosition": "50% 46%",
+      "fit": "contain"
+    },
+    "mobile": {
+      "mode": "portrait",
+      "objectPosition": "50% 42%",
+      "fit": "cover",
+      "relatedId": "p02"
+    },
+    "relationship": "Related photographs in rooflines and openings; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered.",
+    "group": "Rooflines and Openings"
+  },
+  {
+    "id": "p03",
+    "file": "IMG_7446.JPG",
+    "chapter": "EDGE",
+    "treatment": "B&W",
+    "title": "Light Between Columns",
+    "alt": "Two dark foreground columns frame a bright stone building with a sharply angled roof in black and white.",
+    "width": 1080,
+    "height": 1616,
+    "format": "Portrait",
+    "desktop": {
+      "mode": "paired",
+      "relatedId": "p57",
+      "objectPosition": "46% 26%",
+      "fit": "contain"
+    },
+    "mobile": {
+      "mode": "natural-portrait",
+      "objectPosition": "46% 44%",
+      "fit": "contain",
+      "relatedId": "p57"
+    },
+    "relationship": "Related photographs in rooflines and openings; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered.",
+    "group": "Rooflines and Openings"
+  },
+  {
+    "id": "p57",
+    "file": "IMG_7444.JPG",
+    "chapter": "EDGE",
+    "group": "Rooflines and Openings",
+    "title": "A Lamp Between Walls",
+    "alt": "Heavy monochrome building walls frame a narrow wedge of sky and a round projecting lamp.",
+    "width": 1080,
+    "height": 1616,
+    "treatment": "B&W",
+    "format": "Portrait",
+    "desktop": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p03"
+    },
+    "mobile": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p03"
+    },
+    "relationship": "Related photographs in rooflines and openings; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered."
+  },
+  {
+    "id": "p58",
+    "file": "IMG_7445.JPG",
+    "chapter": "EDGE",
+    "group": "Rooflines and Openings",
+    "title": "Into the Quiet Opening",
+    "alt": "A nearly symmetrical concrete facade encloses a large dark entrance beneath small rooftop forms and vertical poles, in black and white.",
+    "width": 1080,
+    "height": 1616,
+    "treatment": "B&W",
+    "format": "Portrait",
+    "desktop": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p03"
+    },
+    "mobile": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p03"
+    },
+    "relationship": "Related photographs in rooflines and openings; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered."
+  },
+  {
+    "id": "p56",
+    "file": "IMG_7443.JPG",
+    "chapter": "EDGE",
+    "group": "Rooflines and Openings",
+    "title": "Where the Grid Bends",
+    "alt": "A dark curved window grid stands beside bright sky and a pale stone building in black and white.",
+    "width": 1080,
+    "height": 1616,
+    "treatment": "B&W",
+    "format": "Portrait",
+    "desktop": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p55"
+    },
+    "mobile": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p55"
+    },
+    "relationship": "Related photographs in rooflines and openings; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered."
+  },
+  {
+    "id": "p55",
+    "file": "IMG_7442.JPG",
+    "chapter": "EDGE",
+    "group": "Rooflines and Openings",
+    "title": "The Colonnade Turns",
+    "alt": "A curved monochrome colonnade with round downlights frames a bright gridded building through tall vertical openings.",
+    "width": 1080,
+    "height": 1616,
+    "treatment": "B&W",
+    "format": "Portrait",
+    "desktop": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p56"
+    },
+    "mobile": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p56"
+    },
+    "relationship": "Related photographs in rooflines and openings; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered."
+  },
+  {
+    "id": "p04",
+    "file": "IMG_7449.JPG",
+    "chapter": "EDGE",
+    "treatment": "B&W",
+    "title": "The Curve Remains",
+    "alt": "Black-and-white concrete stairs curve upward beside a textured cylindrical wall and a continuous handrail.",
+    "width": 1080,
+    "height": 1616,
+    "format": "Portrait",
+    "desktop": {
+      "mode": "paired",
+      "relatedId": "p42",
+      "objectPosition": "44% 61%",
+      "fit": "contain"
+    },
+    "mobile": {
+      "mode": "portrait-close",
+      "objectPosition": "40% 62%",
+      "fit": "cover",
+      "relatedId": "p42"
+    },
+    "relationship": "Related photographs in curves and repetition; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered.",
+    "group": "Curves and Repetition"
+  },
+  {
+    "id": "p42",
+    "file": "IMG_4010.JPG",
+    "chapter": "EDGE",
+    "group": "Curves and Repetition",
+    "title": "Light Along the Treads",
+    "alt": "A dark spiral staircase has radial metal treads, curved glass railings and a pale band of reflected light.",
+    "width": 1616,
+    "height": 1080,
+    "treatment": "Color",
+    "format": "Landscape",
+    "desktop": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p04"
+    },
+    "mobile": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p04"
+    },
+    "relationship": "Related photographs in curves and repetition; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered."
+  },
+  {
+    "id": "p10",
+    "file": "IMG_4005.JPG",
+    "chapter": "EDGE",
+    "treatment": "Color",
+    "title": "A Ceiling in Waves",
+    "alt": "Curving rows of warm-toned ceiling ribs carry round white lights in a repeating fan-like pattern.",
+    "width": 1080,
+    "height": 1616,
+    "format": "Portrait",
+    "desktop": {
+      "mode": "paired",
+      "relatedId": "p41",
+      "objectPosition": "52% 59%",
+      "fit": "contain"
+    },
+    "mobile": {
+      "mode": "portrait-close",
+      "objectPosition": "51% 58%",
+      "fit": "cover",
+      "relatedId": "p41"
+    },
+    "relationship": "Related photographs in curves and repetition; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered.",
+    "group": "Curves and Repetition"
+  },
+  {
+    "id": "p41",
+    "file": "IMG_4006.JPG",
+    "chapter": "EDGE",
+    "group": "Curves and Repetition",
+    "title": "Circles Overhead",
+    "alt": "Concentric sweeps of warm-toned ceiling ribs carry rows of round white lights against dark gaps.",
+    "width": 1616,
+    "height": 1080,
+    "treatment": "Color",
+    "format": "Landscape",
+    "desktop": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p10"
+    },
+    "mobile": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p10"
+    },
+    "relationship": "Related photographs in curves and repetition; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered."
+  },
+  {
+    "id": "p26",
+    "file": "DSC03853.JPG",
+    "chapter": "DRIFT",
+    "group": "Museum Stillness",
+    "title": "Weight of White",
+    "alt": "A pale armless stone statue stands against a dark veined marble wall in black and white.",
+    "width": 1080,
+    "height": 1616,
+    "treatment": "B&W",
+    "format": "Portrait",
+    "desktop": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p27"
+    },
+    "mobile": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p27"
+    },
+    "relationship": "Related photographs in museum stillness; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered."
+  },
+  {
+    "id": "p27",
+    "file": "DSC03888.jpg",
+    "chapter": "DRIFT",
+    "group": "Museum Stillness",
+    "title": "Stone About to Fly",
+    "alt": "A headless winged stone figure stands on a diagonal ship-shaped pedestal beneath a pale museum wall, in black and white.",
+    "width": 1080,
+    "height": 1616,
+    "treatment": "B&W",
+    "format": "Portrait",
+    "desktop": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p15"
+    },
+    "mobile": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p15"
+    },
+    "relationship": "Related photographs in museum stillness; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered."
+  },
+  {
+    "id": "p15",
+    "file": "DSC03965.jpg",
+    "chapter": "DRIFT",
+    "treatment": "B&W",
+    "title": "Stillness Above Passing",
+    "alt": "In black and white, a winged stone statue stands above a broad staircase filled with still and motion-blurred visitors.",
+    "width": 1080,
+    "height": 1616,
+    "format": "Portrait",
+    "desktop": {
+      "mode": "paired",
+      "relatedId": "p27",
+      "objectPosition": "50% 51%",
+      "fit": "contain",
+      "protectFull": true
+    },
+    "mobile": {
+      "mode": "natural-portrait",
+      "objectPosition": "50% 25%",
+      "fit": "contain",
+      "relatedId": "p27"
+    },
+    "relationship": "Related photographs in museum stillness; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered.",
+    "group": "Museum Stillness"
+  },
+  {
+    "id": "p16",
+    "file": "DSC03989.jpg",
+    "chapter": "DRIFT",
+    "treatment": "B&W",
+    "title": "Beneath the Frame",
+    "alt": "A large framed painting hangs above blurred museum visitors, with one more distinct face near the center, in black and white.",
+    "width": 1616,
+    "height": 1080,
+    "format": "Landscape",
+    "desktop": {
+      "mode": "full-pair",
+      "relatedId": "p15",
+      "objectPosition": "50% 65%",
+      "fit": "contain",
+      "protectFull": true
+    },
+    "mobile": {
+      "mode": "stacked-spread",
+      "relatedId": "p15",
+      "objectPosition": "50% 57%",
+      "fit": "contain"
+    },
+    "relationship": "Related photographs in museum stillness; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered.",
+    "group": "Museum Stillness"
+  },
+  {
+    "id": "p09",
+    "file": "IMG_4393.JPG",
+    "chapter": "LIGHT",
+    "treatment": "Color",
+    "title": "Light in Intervals",
+    "alt": "Sunlight and window frames create repeated bands across a glazed corridor floor, with travelers walking in the distance.",
+    "width": 1080,
+    "height": 1616,
+    "format": "Portrait",
+    "desktop": {
+      "mode": "paired",
+      "relatedId": "p17",
+      "objectPosition": "56% 58%",
+      "fit": "contain"
+    },
+    "mobile": {
+      "mode": "portrait",
+      "objectPosition": "57% 55%",
+      "fit": "cover",
+      "relatedId": "p17"
+    },
+    "relationship": "Related photographs in passing frames; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered.",
+    "group": "Passing Frames"
+  },
+  {
+    "id": "p17",
+    "file": "IMG_4223.JPG",
+    "chapter": "DRIFT",
+    "treatment": "Color",
+    "title": "A Dark Crossing",
+    "alt": "A motion-blurred black van crosses a road beneath repeated pale viaduct columns and a diagonally patterned building.",
+    "width": 1616,
+    "height": 1080,
+    "format": "Landscape",
+    "desktop": {
+      "mode": "immersive-landscape",
+      "relatedId": "p09",
+      "objectPosition": "46% 77%",
+      "fit": "cover"
+    },
+    "mobile": {
+      "mode": "stacked-spread",
+      "relatedId": "p09",
+      "objectPosition": "40% 71%",
+      "fit": "contain"
+    },
+    "relationship": "Related photographs in passing frames; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered.",
+    "group": "Passing Frames"
+  },
+  {
+    "id": "p28",
+    "file": "DSC08367.JPG",
+    "chapter": "DRIFT",
+    "group": "Passing Frames",
+    "title": "The City Slips Past",
+    "alt": "Dark trackside columns and crossing wires pass in front of trees and a blue glass building, with slight horizontal motion blur.",
+    "width": 1616,
+    "height": 1080,
+    "treatment": "Color",
+    "format": "Landscape",
+    "desktop": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p18"
+    },
+    "mobile": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p18"
+    },
+    "relationship": "Related photographs in passing frames; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered."
+  },
+  {
+    "id": "p18",
+    "file": "IMG_4392.JPG",
+    "chapter": "DRIFT",
+    "treatment": "Color",
+    "title": "Between the Lines",
+    "alt": "Dark rail-side columns and crossing wires pass in front of trees and blue glass buildings, with visible motion blur.",
+    "width": 1616,
+    "height": 1080,
+    "format": "Landscape",
+    "desktop": {
+      "mode": "immersive-landscape",
+      "relatedId": "p28",
+      "objectPosition": "59% 53%",
+      "fit": "cover"
+    },
+    "mobile": {
+      "mode": "landscape-close",
+      "objectPosition": "69% 50%",
+      "fit": "cover",
+      "relatedId": "p28"
+    },
+    "relationship": "Related photographs in passing frames; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered.",
+    "group": "Passing Frames"
+  },
+  {
+    "id": "p22",
+    "file": "IMG_4419.JPG",
+    "chapter": "OPEN",
+    "treatment": "Color",
+    "title": "Distance Through a Frame",
+    "alt": "A dark post, overhead beam and horizontal wires frame blue sea and distant hills beyond a fence.",
+    "width": 1286,
+    "height": 974,
+    "format": "Landscape",
+    "desktop": {
+      "mode": "immersive-landscape",
+      "relatedId": "p18",
+      "objectPosition": "54% 50%",
+      "fit": "cover"
+    },
+    "mobile": {
+      "mode": "stacked-spread",
+      "relatedId": "p18",
+      "objectPosition": "55% 50%",
+      "fit": "contain"
+    },
+    "relationship": "Related photographs in passing frames; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered.",
+    "group": "Passing Frames"
+  },
+  {
+    "id": "p20",
+    "file": "IMG_4372.JPG",
+    "chapter": "DRIFT",
+    "treatment": "Color",
+    "title": "Water at the End",
+    "alt": "A descending street with cars and small illuminated signs runs between dark buildings toward a narrow view of blue water and a ship.",
+    "width": 1080,
+    "height": 1616,
+    "format": "Portrait",
+    "desktop": {
+      "mode": "paired",
+      "relatedId": "p21",
+      "objectPosition": "45% 53%",
+      "fit": "contain"
+    },
+    "mobile": {
+      "mode": "portrait",
+      "objectPosition": "41% 51%",
+      "fit": "cover",
+      "relatedId": "p21"
+    },
+    "relationship": "Related photographs in a street in motion; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered.",
+    "group": "A Street in Motion"
+  },
+  {
+    "id": "p21",
+    "file": "IMG_4378.jpg",
+    "chapter": "DRIFT",
+    "treatment": "Color",
+    "title": "A Passing Horizon",
+    "alt": "A blurred ferry crosses blue water at the far end of a dark street, while car lights streak among the foreground buildings.",
+    "width": 1044,
+    "height": 1562,
+    "format": "Portrait",
+    "desktop": {
+      "mode": "paired",
+      "relatedId": "p20",
+      "objectPosition": "49% 49%",
+      "fit": "contain"
+    },
+    "mobile": {
+      "mode": "portrait",
+      "objectPosition": "46% 48%",
+      "fit": "cover",
+      "relatedId": "p20"
+    },
+    "relationship": "Related photographs in a street in motion; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered.",
+    "group": "A Street in Motion"
+  },
+  {
+    "id": "p19",
+    "file": "IMG_4375.JPG",
+    "chapter": "DRIFT",
+    "treatment": "Color",
+    "title": "The Street Unravels",
+    "alt": "Red and white light trails curve upward from vehicles along a dark street between tall buildings.",
+    "width": 1080,
+    "height": 1616,
+    "format": "Portrait",
+    "desktop": {
+      "mode": "paired",
+      "relatedId": "p21",
+      "objectPosition": "49% 59%",
+      "fit": "contain"
+    },
+    "mobile": {
+      "mode": "portrait-close",
+      "objectPosition": "48% 59%",
+      "fit": "cover",
+      "relatedId": "p21"
+    },
+    "relationship": "Related photographs in a street in motion; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered.",
+    "group": "A Street in Motion"
+  },
+  {
+    "id": "p30",
+    "file": "DSC08881.JPG",
+    "chapter": "DRIFT",
+    "group": "Harbor After Dark",
+    "title": "Blue After the Boats",
+    "alt": "Sailboat masts and small boats stand in a blue dusk harbor below illuminated city buildings and heavy clouds.",
+    "width": 1080,
+    "height": 1616,
+    "treatment": "Color",
+    "format": "Portrait",
+    "desktop": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p34"
+    },
+    "mobile": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p34"
+    },
+    "relationship": "Related photographs in harbor after dark; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered."
+  },
+  {
+    "id": "p34",
+    "file": "DSC09190.JPG",
+    "chapter": "DRIFT",
+    "group": "Harbor After Dark",
+    "title": "The Harbor Turns Rose",
+    "alt": "Pink firework smoke glows over a harbor with sailboat masts, city lights and dark foreground spectators.",
+    "width": 1616,
+    "height": 1080,
+    "treatment": "Color",
+    "format": "Landscape",
+    "desktop": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p30"
+    },
+    "mobile": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p30"
+    },
+    "relationship": "Related photographs in harbor after dark; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered."
+  },
+  {
+    "id": "p32",
+    "file": "DSC09143.JPG",
+    "chapter": "DRIFT",
+    "group": "Harbor After Dark",
+    "title": "Silver After Dark",
+    "alt": "Several pale firework bursts fan upward and diagonally across a black night sky.",
+    "width": 1616,
+    "height": 1080,
+    "treatment": "Color",
+    "format": "Landscape",
+    "desktop": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p31"
+    },
+    "mobile": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p31"
+    },
+    "relationship": "Related photographs in harbor after dark; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered."
+  },
+  {
+    "id": "p31",
+    "file": "DSC09139.JPG",
+    "chapter": "DRIFT",
+    "group": "Harbor After Dark",
+    "title": "A Garden of Sparks",
+    "alt": "Soft golden and pale firework bursts spread across a dark sky, with red light concentrated at the left.",
+    "width": 1616,
+    "height": 1080,
+    "treatment": "Color",
+    "format": "Landscape",
+    "desktop": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p32"
+    },
+    "mobile": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p32"
+    },
+    "relationship": "Related photographs in harbor after dark; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered."
+  },
+  {
+    "id": "p33",
+    "file": "DSC09175.JPG",
+    "chapter": "LIGHT",
+    "group": "Harbor After Dark",
+    "title": "Embers Out of Focus",
+    "alt": "Overlapping soft circles of red, orange and pale pink light fill a dark background.",
+    "width": 1616,
+    "height": 1080,
+    "treatment": "Color",
+    "format": "Landscape",
+    "desktop": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p31"
+    },
+    "mobile": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p31"
+    },
+    "relationship": "Related photographs in harbor after dark; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered."
+  },
+  {
+    "id": "p13",
+    "file": "IMG_3268.JPG",
+    "chapter": "LIGHT",
+    "treatment": "Color",
+    "title": "Amber Through Ice",
+    "alt": "A bright amber sun is seen through dark, softly focused ice, with circular highlights around its edges.",
+    "width": 1616,
+    "height": 1080,
+    "format": "Landscape",
+    "desktop": {
+      "mode": "immersive-landscape",
+      "relatedId": "p37",
+      "objectPosition": "53% 47%",
+      "fit": "cover"
+    },
+    "mobile": {
+      "mode": "landscape-close",
+      "objectPosition": "54% 47%",
+      "fit": "cover",
+      "relatedId": "p37"
+    },
+    "relationship": "Related photographs in winter water; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered.",
+    "group": "Winter Water"
+  },
+  {
+    "id": "p37",
+    "file": "IMG_3273.JPG",
+    "chapter": "LIGHT",
+    "group": "Winter Water",
+    "title": "Beyond the Ice",
+    "alt": "A person stands at a lake beyond a softly focused foreground rim of ice, with a distant Ferris wheel and low sun.",
+    "width": 1616,
+    "height": 1080,
+    "treatment": "Color",
+    "format": "Landscape",
+    "desktop": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p13"
+    },
+    "mobile": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p13"
+    },
+    "relationship": "Related photographs in winter water; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered."
+  },
+  {
+    "id": "p38",
+    "file": "IMG_3276.JPG",
+    "chapter": "LIGHT",
+    "group": "Winter Water",
+    "title": "A Wheel Beside Sunset",
+    "alt": "The orange sun touches a dark mountain ridge beside a silhouetted Ferris wheel, reflecting across a lake.",
+    "width": 1485,
+    "height": 1042,
+    "treatment": "Color",
+    "format": "Landscape",
+    "desktop": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p37"
+    },
+    "mobile": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p37"
+    },
+    "relationship": "Related photographs in winter water; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered."
+  },
+  {
+    "id": "p36",
+    "file": "IMG_3272.JPG",
+    "chapter": "OPEN",
+    "group": "Winter Water",
+    "title": "At the Winter Edge",
+    "alt": "People enter dark water beside an icy lake surface, with a distant Ferris wheel, trees and mountains beyond.",
+    "width": 5458,
+    "height": 4094,
+    "treatment": "Color",
+    "format": "Landscape",
+    "desktop": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p14"
+    },
+    "mobile": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p14"
+    },
+    "relationship": "Related photographs in winter water; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered."
+  },
+  {
+    "id": "p14",
+    "file": "IMG_3343.JPG",
+    "chapter": "LIGHT",
+    "treatment": "Color",
+    "title": "Across the Fracture",
+    "alt": "An overhead view of cracked ice shows a white-and-orange paddleboard beside an orange kayak carrying a person and a blue paddle.",
+    "width": 4096,
+    "height": 3072,
+    "format": "Landscape",
+    "desktop": {
+      "mode": "full-pair",
+      "relatedId": "p36",
+      "objectPosition": "50% 72%",
+      "fit": "contain",
+      "protectFull": true
+    },
+    "mobile": {
+      "mode": "stacked-spread",
+      "relatedId": "p36",
+      "objectPosition": "49% 68%",
+      "fit": "contain"
+    },
+    "relationship": "Related photographs in winter water; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered.",
+    "group": "Winter Water"
+  },
+  {
+    "id": "p35",
+    "file": "IMG_3267.JPG",
+    "chapter": "OPEN",
+    "group": "Winter Water",
+    "title": "Trees Holding Dusk",
+    "alt": "Repeated tall bare tree trunks stand in silhouette beside water under a dark blue evening sky.",
+    "width": 1616,
+    "height": 1080,
+    "treatment": "Color",
+    "format": "Landscape",
+    "desktop": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p38"
+    },
+    "mobile": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p38"
+    },
+    "relationship": "Related photographs in winter water; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered."
+  },
+  {
+    "id": "p12",
+    "file": "IMG_6889.JPG",
+    "chapter": "LIGHT",
+    "treatment": "Color",
+    "title": "The Window Holds",
+    "alt": "A cup of iced coffee stands on a dark table beside a mesh-covered window, with sunlight entering above and a person outside.",
+    "width": 1616,
+    "height": 1080,
+    "format": "Landscape",
+    "desktop": {
+      "mode": "full-pair",
+      "relatedId": "p40",
+      "objectPosition": "56% 70%",
+      "fit": "contain",
+      "protectFull": true
+    },
+    "mobile": {
+      "mode": "stacked-spread",
+      "relatedId": "p40",
+      "objectPosition": "59% 72%",
+      "fit": "contain"
+    },
+    "relationship": "Related photographs in table light; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered.",
+    "group": "Table Light"
+  },
+  {
+    "id": "p40",
+    "file": "IMG_3491.HEIC",
+    "chapter": "LIGHT",
+    "group": "Table Light",
+    "title": "Ice in Afternoon Light",
+    "alt": "A short glass of dark coffee holds a large square ice cube and a garnish on a wooden coaster, in strong table light.",
+    "width": 4032,
+    "height": 2268,
+    "treatment": "Color",
+    "format": "Landscape",
+    "desktop": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p39"
+    },
+    "mobile": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p39"
+    },
+    "relationship": "Related photographs in table light; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered."
+  },
+  {
+    "id": "p39",
+    "file": "IMG_3486.HEIC",
+    "chapter": "LIGHT",
+    "group": "Table Light",
+    "title": "A Flower in Foam",
+    "alt": "A pale angular mug topped with foam and small flowers casts a hard shadow across a sunlit white table.",
+    "width": 2910,
+    "height": 2033,
+    "treatment": "Color",
+    "format": "Landscape",
+    "desktop": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p40"
+    },
+    "mobile": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p40"
+    },
+    "relationship": "Related photographs in table light; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered."
+  },
+  {
+    "id": "p49",
+    "file": "IMG_4411.HEIC",
+    "chapter": "LIGHT",
+    "group": "Table Light",
+    "title": "A Table for Two",
+    "alt": "Two coffees with patterned foam sit diagonally in blue-and-white cups and saucers on a wooden table beside an order slip.",
+    "width": 2268,
+    "height": 4032,
+    "treatment": "Color",
+    "format": "Portrait",
+    "desktop": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p39"
+    },
+    "mobile": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p39"
+    },
+    "relationship": "Related photographs in table light; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered."
+  },
+  {
+    "id": "p48",
+    "file": "IMG_4391.JPG",
+    "chapter": "LIGHT",
+    "group": "Table Light",
+    "title": "Words Before Coffee",
+    "alt": "An illustrated handwritten cafe menu fills the frame with small drawings, drink names and prices on pale paper.",
+    "width": 1616,
+    "height": 1080,
+    "treatment": "Color",
+    "format": "Landscape",
+    "desktop": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p49"
+    },
+    "mobile": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p49"
+    },
+    "relationship": "Related photographs in table light; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered."
+  },
+  {
+    "id": "p46",
+    "file": "IMG_4384.JPG",
+    "chapter": "LIGHT",
+    "group": "Table Light",
+    "title": "Bottles Along the Wall",
+    "alt": "A diagonal row of dark wine bottles with varied pale labels stands on a narrow concrete ledge beside a brown wall.",
+    "width": 1616,
+    "height": 1080,
+    "treatment": "Color",
+    "format": "Landscape",
+    "desktop": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p48"
+    },
+    "mobile": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p48"
+    },
+    "relationship": "Related photographs in table light; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered."
+  },
+  {
+    "id": "p51",
+    "file": "IMG_6895.JPG",
+    "chapter": "OPEN",
+    "group": "Leaves Against Sky",
+    "title": "Chairs Waiting in Shade",
+    "alt": "Orange-red wire chairs and a table stand on grass beneath a tree, among patches of sunlight and dark shade.",
+    "width": 1616,
+    "height": 1080,
+    "treatment": "Color",
+    "format": "Landscape",
+    "desktop": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p43"
+    },
+    "mobile": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p43"
+    },
+    "relationship": "Related photographs in leaves against sky; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered."
+  },
+  {
+    "id": "p43",
+    "file": "IMG_4226.JPG",
+    "chapter": "OPEN",
+    "group": "Leaves Against Sky",
+    "title": "Steps Toward the Sun",
+    "alt": "An outdoor stairway recedes between concrete side walls toward trees and a bright patch of sunlight.",
+    "width": 1080,
+    "height": 1616,
+    "treatment": "Color",
+    "format": "Portrait",
+    "desktop": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p51"
+    },
+    "mobile": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p51"
+    },
+    "relationship": "Related photographs in leaves against sky; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered."
+  },
+  {
+    "id": "p11",
+    "file": "IMG_4230.JPG",
+    "chapter": "LIGHT",
+    "treatment": "Color",
+    "title": "A Branch of Blue",
+    "alt": "Dark branches and a few leaves extend from the right across a clear cyan-blue sky.",
+    "width": 1616,
+    "height": 1080,
+    "format": "Landscape",
+    "desktop": {
+      "mode": "immersive-landscape",
+      "relatedId": "p44",
+      "objectPosition": "61% 51%",
+      "fit": "cover"
+    },
+    "mobile": {
+      "mode": "landscape-close",
+      "objectPosition": "74% 51%",
+      "fit": "cover",
+      "relatedId": "p44"
+    },
+    "relationship": "Related photographs in leaves against sky; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered.",
+    "group": "Leaves Against Sky"
+  },
+  {
+    "id": "p44",
+    "file": "IMG_4231.JPG",
+    "chapter": "OPEN",
+    "group": "Leaves Against Sky",
+    "title": "The Sky Fans Out",
+    "alt": "Dark palm fronds spread in overlapping fans across a bright cyan-blue sky.",
+    "width": 1616,
+    "height": 1080,
+    "treatment": "Color",
+    "format": "Landscape",
+    "desktop": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p45"
+    },
+    "mobile": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p45"
+    },
+    "relationship": "Related photographs in leaves against sky; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered."
+  },
+  {
+    "id": "p45",
+    "file": "IMG_4233.JPG",
+    "chapter": "OPEN",
+    "group": "Leaves Against Sky",
+    "title": "Palms at the Wire",
+    "alt": "Tall dark palms rise against muted blue sky, with a utility pole and diagonal wire at the lower right.",
+    "width": 1080,
+    "height": 1616,
+    "treatment": "Color",
+    "format": "Portrait",
+    "desktop": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p50"
+    },
+    "mobile": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p50"
+    },
+    "relationship": "Related photographs in leaves against sky; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered."
+  },
+  {
+    "id": "p50",
+    "file": "IMG_4477.jpg",
+    "chapter": "OPEN",
+    "group": "Leaves Against Sky",
+    "title": "One Palm of Blue",
+    "alt": "A single slender palm rises near the center of a large clear blue sky.",
+    "width": 1018,
+    "height": 1568,
+    "treatment": "Color",
+    "format": "Portrait",
+    "desktop": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p45"
+    },
+    "mobile": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p45"
+    },
+    "relationship": "Related photographs in leaves against sky; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered."
+  },
+  {
+    "id": "p29",
+    "file": "DSC08848.jpg",
+    "chapter": "OPEN",
+    "group": "An Open Shore",
+    "title": "Hours Above Water",
+    "alt": "An ornate dark beach clock rises alone against a pale blue sky, with a low sea horizon behind it.",
+    "width": 1079,
+    "height": 1500,
+    "treatment": "Color",
+    "format": "Portrait",
+    "desktop": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p52"
+    },
+    "mobile": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p52"
+    },
+    "relationship": "Related photographs in an open shore; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered."
+  },
+  {
+    "id": "p52",
+    "file": "IMG_6958.HEIC",
+    "chapter": "OPEN",
+    "group": "An Open Shore",
+    "title": "The Hour We Passed",
+    "alt": "An ornate beach clock stands above people walking beside the sea, including a person in yellow at the right.",
+    "width": 3024,
+    "height": 3024,
+    "treatment": "Color",
+    "format": "Square",
+    "desktop": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p29"
+    },
+    "mobile": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p29"
+    },
+    "relationship": "Related photographs in an open shore; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered."
+  },
+  {
+    "id": "p53",
+    "file": "IMG_6973.HEIC",
+    "chapter": "OPEN",
+    "group": "An Open Shore",
+    "title": "A Handful of Sea",
+    "alt": "A sunlit person raises an arm in shallow blue seawater, with other bathers and a broad open sky behind.",
+    "width": 3024,
+    "height": 3024,
+    "treatment": "Color",
+    "format": "Square",
+    "desktop": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p23"
+    },
+    "mobile": {
+      "mode": "full",
+      "fit": "contain",
+      "objectPosition": "50% 50%",
+      "protectFull": true,
+      "relatedId": "p23"
+    },
+    "relationship": "Related photographs in an open shore; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered."
+  },
+  {
+    "id": "p23",
+    "file": "IMG_6974.HEIC",
+    "chapter": "OPEN",
+    "treatment": "Color",
+    "title": "Bodies Against Blue",
+    "alt": "People splash in blue seawater beneath an open sky, their sunlit backs and raised arms standing out against the water.",
+    "width": 4142,
+    "height": 4142,
+    "format": "Square",
+    "desktop": {
+      "mode": "immersive-square",
+      "relatedId": "p53",
+      "objectPosition": "52% 80%",
+      "fit": "cover"
+    },
+    "mobile": {
+      "mode": "natural-square",
+      "relatedId": "p53",
+      "objectPosition": "58% 64%",
+      "fit": "contain"
+    },
+    "relationship": "Related photographs in an open shore; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered.",
+    "group": "An Open Shore"
+  },
+  {
+    "id": "p24",
+    "file": "IMG_6983.HEIC",
+    "chapter": "OPEN",
+    "treatment": "Color",
+    "title": "Channels in the Sand",
+    "alt": "Branching channels and scattered shells cross dark wet sand toward a blue sea beneath a narrow strip of pale sky.",
+    "width": 4284,
+    "height": 4284,
+    "format": "Square",
+    "desktop": {
+      "mode": "full-pair",
+      "relatedId": "p25",
+      "objectPosition": "54% 64%",
+      "fit": "contain",
+      "protectFull": true
+    },
+    "mobile": {
+      "mode": "square-close",
+      "objectPosition": "56% 53%",
+      "fit": "cover",
+      "relatedId": "p25"
+    },
+    "relationship": "Related photographs in an open shore; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered.",
+    "group": "An Open Shore"
+  },
+  {
+    "id": "p25",
+    "file": "IMG_7002.HEIC",
+    "chapter": "OPEN",
+    "treatment": "Color",
+    "title": "Room for the Horizon",
+    "alt": "A broad pale-blue sky meets a level sea with small distant swimmers, above rippled wet sand and a person partly cut by the right edge.",
+    "width": 3024,
+    "height": 3024,
+    "format": "Square",
+    "desktop": {
+      "mode": "immersive-square",
+      "relatedId": "p24",
+      "objectPosition": "50% 59%",
+      "fit": "cover"
+    },
+    "mobile": {
+      "mode": "natural-square",
+      "relatedId": "p24",
+      "objectPosition": "58% 51%",
+      "fit": "contain"
+    },
+    "relationship": "Related photographs in an open shore; paired viewing is optional.",
+    "protect": "Default to the complete source frame, at its original aspect ratio, displayed alone and centered.",
+    "group": "An Open Shore"
+  }
+]
